@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1557748321 source:c:\users\dekjike\desktop\algorithms\wmx\nqueen\main.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+
